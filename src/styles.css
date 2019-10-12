@@ -1,0 +1,16 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+label {
+    color: red;
+    text-transform: uppercase;
+}
+
+input {
+    text-transform: uppercase;
+}
+
+strong {
+
+    text-transform: uppercase;
+    text-align: center;
+}
